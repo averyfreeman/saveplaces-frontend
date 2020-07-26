@@ -1,4 +1,4 @@
-# NodeJS Backend for SavePlaces SPA
+# React frontend for SavePlaces SPA
 
 2020-06-01
 
